@@ -1,0 +1,1216 @@
+{
+    "files": [
+        {
+            "file": "Collection/CellsFactory.php",
+            "classes": [
+                "Collection\\CellsFactory"
+            ]
+        },
+        {
+            "file": "Collection/Cells.php",
+            "classes": [
+                "Collection\\Cells"
+            ]
+        },
+        {
+            "file": "Collection/Memory.php",
+            "classes": [
+                "Collection\\Memory"
+            ]
+        },
+        {
+            "file": "Chart/GridLines.php",
+            "classes": [
+                "Chart\\GridLines"
+            ]
+        },
+        {
+            "file": "Chart/Properties.php",
+            "classes": [
+                "Chart\\Properties"
+            ]
+        },
+        {
+            "file": "Chart/DataSeries.php",
+            "classes": [
+                "Chart\\DataSeries"
+            ]
+        },
+        {
+            "file": "Chart/Legend.php",
+            "classes": [
+                "Chart\\Legend"
+            ]
+        },
+        {
+            "file": "Chart/Chart.php",
+            "classes": [
+                "Chart\\Chart"
+            ]
+        },
+        {
+            "file": "Chart/Renderer/JpGraph.php",
+            "classes": [
+                "Chart\\Renderer\\JpGraph"
+            ]
+        },
+        {
+            "file": "Chart/Renderer/IRenderer.php",
+            "classes": [
+                "Chart\\Renderer\\IRenderer"
+            ]
+        },
+        {
+            "file": "Chart/Title.php",
+            "classes": [
+                "Chart\\Title"
+            ]
+        },
+        {
+            "file": "Chart/PlotArea.php",
+            "classes": [
+                "Chart\\PlotArea"
+            ]
+        },
+        {
+            "file": "Chart/Layout.php",
+            "classes": [
+                "Chart\\Layout"
+            ]
+        },
+        {
+            "file": "Chart/DataSeriesValues.php",
+            "classes": [
+                "Chart\\DataSeriesValues"
+            ]
+        },
+        {
+            "file": "Chart/Axis.php",
+            "classes": [
+                "Chart\\Axis"
+            ]
+        },
+        {
+            "file": "Chart/Exception.php",
+            "classes": [
+                "Chart\\Exception"
+            ]
+        },
+        {
+            "file": "IComparable.php",
+            "classes": [
+                "IComparable"
+            ]
+        },
+        {
+            "file": "RichText/Run.php",
+            "classes": [
+                "RichText\\Run"
+            ]
+        },
+        {
+            "file": "RichText/TextElement.php",
+            "classes": [
+                "RichText\\TextElement"
+            ]
+        },
+        {
+            "file": "RichText/ITextElement.php",
+            "classes": [
+                "RichText\\ITextElement"
+            ]
+        },
+        {
+            "file": "RichText/RichText.php",
+            "classes": [
+                "RichText\\RichText"
+            ]
+        },
+        {
+            "file": "HashTable.php",
+            "classes": [
+                "HashTable"
+            ]
+        },
+        {
+            "file": "IOFactory.php",
+            "classes": [
+                "IOFactory"
+            ]
+        },
+        {
+            "file": "NamedRange.php",
+            "classes": [
+                "NamedRange"
+            ]
+        },
+        {
+            "file": "Reader/Xlsx/Theme.php",
+            "classes": [
+                "Reader\\Xlsx\\Theme"
+            ]
+        },
+        {
+            "file": "Reader/Xlsx/Chart.php",
+            "classes": [
+                "Reader\\Xlsx\\Chart"
+            ]
+        },
+        {
+            "file": "Reader/Gnumeric.php",
+            "classes": [
+                "Reader\\Gnumeric"
+            ]
+        },
+        {
+            "file": "Reader/Ods.php",
+            "classes": [
+                "Reader\\Ods"
+            ]
+        },
+        {
+            "file": "Reader/Xls.php",
+            "classes": [
+                "Reader\\Xls"
+            ]
+        },
+        {
+            "file": "Reader/Xls/Escher.php",
+            "classes": [
+                "Reader\\Xls\\Escher"
+            ]
+        },
+        {
+            "file": "Reader/Xls/Color/BIFF8.php",
+            "classes": [
+                "Reader\\Xls\\Color\\BIFF8"
+            ]
+        },
+        {
+            "file": "Reader/Xls/Color/BuiltIn.php",
+            "classes": [
+                "Reader\\Xls\\Color\\BuiltIn"
+            ]
+        },
+        {
+            "file": "Reader/Xls/Color/BIFF5.php",
+            "classes": [
+                "Reader\\Xls\\Color\\BIFF5"
+            ]
+        },
+        {
+            "file": "Reader/Xls/MD5.php",
+            "classes": [
+                "Reader\\Xls\\MD5"
+            ]
+        },
+        {
+            "file": "Reader/Xls/Color.php",
+            "classes": [
+                "Reader\\Xls\\Color"
+            ]
+        },
+        {
+            "file": "Reader/Xls/RC4.php",
+            "classes": [
+                "Reader\\Xls\\RC4"
+            ]
+        },
+        {
+            "file": "Reader/Xls/ErrorCode.php",
+            "classes": [
+                "Reader\\Xls\\ErrorCode"
+            ]
+        },
+        {
+            "file": "Reader/Xls/Style/FillPattern.php",
+            "classes": [
+                "Reader\\Xls\\Style\\FillPattern"
+            ]
+        },
+        {
+            "file": "Reader/Xls/Style/Border.php",
+            "classes": [
+                "Reader\\Xls\\Style\\Border"
+            ]
+        },
+        {
+            "file": "Reader/DefaultReadFilter.php",
+            "classes": [
+                "Reader\\DefaultReadFilter"
+            ]
+        },
+        {
+            "file": "Reader/IReader.php",
+            "classes": [
+                "Reader\\IReader"
+            ]
+        },
+        {
+            "file": "Reader/BaseReader.php",
+            "classes": [
+                "Reader\\BaseReader"
+            ]
+        },
+        {
+            "file": "Reader/Csv.php",
+            "classes": [
+                "Reader\\Csv"
+            ]
+        },
+        {
+            "file": "Reader/IReadFilter.php",
+            "classes": [
+                "Reader\\IReadFilter"
+            ]
+        },
+        {
+            "file": "Reader/Slk.php",
+            "classes": [
+                "Reader\\Slk"
+            ]
+        },
+        {
+            "file": "Reader/Xlsx.php",
+            "classes": [
+                "Reader\\Xlsx"
+            ]
+        },
+        {
+            "file": "Reader/Xml.php",
+            "classes": [
+                "Reader\\Xml"
+            ]
+        },
+        {
+            "file": "Reader/Html.php",
+            "classes": [
+                "Reader\\Html"
+            ]
+        },
+        {
+            "file": "Reader/Exception.php",
+            "classes": [
+                "Reader\\Exception"
+            ]
+        },
+        {
+            "file": "Writer/Xlsx/Theme.php",
+            "classes": [
+                "Writer\\Xlsx\\Theme"
+            ]
+        },
+        {
+            "file": "Writer/Xlsx/RelsVBA.php",
+            "classes": [
+                "Writer\\Xlsx\\RelsVBA"
+            ]
+        },
+        {
+            "file": "Writer/Xlsx/Chart.php",
+            "classes": [
+                "Writer\\Xlsx\\Chart"
+            ]
+        },
+        {
+            "file": "Writer/Xlsx/DocProps.php",
+            "classes": [
+                "Writer\\Xlsx\\DocProps"
+            ]
+        },
+        {
+            "file": "Writer/Xlsx/RelsRibbon.php",
+            "classes": [
+                "Writer\\Xlsx\\RelsRibbon"
+            ]
+        },
+        {
+            "file": "Writer/Xlsx/Style.php",
+            "classes": [
+                "Writer\\Xlsx\\Style"
+            ]
+        },
+        {
+            "file": "Writer/Xlsx/ContentTypes.php",
+            "classes": [
+                "Writer\\Xlsx\\ContentTypes"
+            ]
+        },
+        {
+            "file": "Writer/Xlsx/WriterPart.php",
+            "classes": [
+                "Writer\\Xlsx\\WriterPart"
+            ]
+        },
+        {
+            "file": "Writer/Xlsx/Workbook.php",
+            "classes": [
+                "Writer\\Xlsx\\Workbook"
+            ]
+        },
+        {
+            "file": "Writer/Xlsx/StringTable.php",
+            "classes": [
+                "Writer\\Xlsx\\StringTable"
+            ]
+        },
+        {
+            "file": "Writer/Xlsx/Drawing.php",
+            "classes": [
+                "Writer\\Xlsx\\Drawing"
+            ]
+        },
+        {
+            "file": "Writer/Xlsx/Comments.php",
+            "classes": [
+                "Writer\\Xlsx\\Comments"
+            ]
+        },
+        {
+            "file": "Writer/Xlsx/Worksheet.php",
+            "classes": [
+                "Writer\\Xlsx\\Worksheet"
+            ]
+        },
+        {
+            "file": "Writer/Xlsx/Rels.php",
+            "classes": [
+                "Writer\\Xlsx\\Rels"
+            ]
+        },
+        {
+            "file": "Writer/Ods.php",
+            "classes": [
+                "Writer\\Ods"
+            ]
+        },
+        {
+            "file": "Writer/Xls.php",
+            "classes": [
+                "Writer\\Xls"
+            ]
+        },
+        {
+            "file": "Writer/Xls/Escher.php",
+            "classes": [
+                "Writer\\Xls\\Escher"
+            ]
+        },
+        {
+            "file": "Writer/Xls/Font.php",
+            "classes": [
+                "Writer\\Xls\\Font"
+            ]
+        },
+        {
+            "file": "Writer/Xls/Parser.php",
+            "classes": [
+                "Writer\\Xls\\Parser"
+            ]
+        },
+        {
+            "file": "Writer/Xls/Workbook.php",
+            "classes": [
+                "Writer\\Xls\\Workbook"
+            ]
+        },
+        {
+            "file": "Writer/Xls/BIFFwriter.php",
+            "classes": [
+                "Writer\\Xls\\BIFFwriter"
+            ]
+        },
+        {
+            "file": "Writer/Xls/Xf.php",
+            "classes": [
+                "Writer\\Xls\\Xf"
+            ]
+        },
+        {
+            "file": "Writer/Xls/Worksheet.php",
+            "classes": [
+                "Writer\\Xls\\Worksheet"
+            ]
+        },
+        {
+            "file": "Writer/Csv.php",
+            "classes": [
+                "Writer\\Csv"
+            ]
+        },
+        {
+            "file": "Writer/Ods/MetaInf.php",
+            "classes": [
+                "Writer\\Ods\\MetaInf"
+            ]
+        },
+        {
+            "file": "Writer/Ods/Mimetype.php",
+            "classes": [
+                "Writer\\Ods\\Mimetype"
+            ]
+        },
+        {
+            "file": "Writer/Ods/Thumbnails.php",
+            "classes": [
+                "Writer\\Ods\\Thumbnails"
+            ]
+        },
+        {
+            "file": "Writer/Ods/WriterPart.php",
+            "classes": [
+                "Writer\\Ods\\WriterPart"
+            ]
+        },
+        {
+            "file": "Writer/Ods/Settings.php",
+            "classes": [
+                "Writer\\Ods\\Settings"
+            ]
+        },
+        {
+            "file": "Writer/Ods/Content.php",
+            "classes": [
+                "Writer\\Ods\\Content"
+            ]
+        },
+        {
+            "file": "Writer/Ods/Styles.php",
+            "classes": [
+                "Writer\\Ods\\Styles"
+            ]
+        },
+        {
+            "file": "Writer/Ods/Meta.php",
+            "classes": [
+                "Writer\\Ods\\Meta"
+            ]
+        },
+        {
+            "file": "Writer/Ods/Cell/Comment.php",
+            "classes": [
+                "Writer\\Ods\\Cell\\Comment"
+            ]
+        },
+        {
+            "file": "Writer/Pdf/Dompdf.php",
+            "classes": [
+                "Writer\\Pdf\\Dompdf"
+            ]
+        },
+        {
+            "file": "Writer/Pdf/Tcpdf.php",
+            "classes": [
+                "Writer\\Pdf\\Tcpdf"
+            ]
+        },
+        {
+            "file": "Writer/Pdf/Mpdf.php",
+            "classes": [
+                "Writer\\Pdf\\Mpdf"
+            ]
+        },
+        {
+            "file": "Writer/Xlsx.php",
+            "classes": [
+                "Writer\\Xlsx"
+            ]
+        },
+        {
+            "file": "Writer/BaseWriter.php",
+            "classes": [
+                "Writer\\BaseWriter"
+            ]
+        },
+        {
+            "file": "Writer/Html.php",
+            "classes": [
+                "Writer\\Html"
+            ]
+        },
+        {
+            "file": "Writer/IWriter.php",
+            "classes": [
+                "Writer\\IWriter"
+            ]
+        },
+        {
+            "file": "Writer/Pdf.php",
+            "classes": [
+                "Writer\\Pdf"
+            ]
+        },
+        {
+            "file": "Writer/Exception.php",
+            "classes": [
+                "Writer\\Exception"
+            ]
+        },
+        {
+            "file": "ReferenceHelper.php",
+            "classes": [
+                "ReferenceHelper"
+            ]
+        },
+        {
+            "file": "Comment.php",
+            "classes": [
+                "Comment"
+            ]
+        },
+        {
+            "file": "Settings.php",
+            "classes": [
+                "Settings"
+            ]
+        },
+        {
+            "file": "Calculation/Statistical.php",
+            "classes": [
+                "Calculation\\Statistical"
+            ]
+        },
+        {
+            "file": "Calculation/ExceptionHandler.php",
+            "classes": [
+                "Calculation\\ExceptionHandler"
+            ]
+        },
+        {
+            "file": "Calculation/Database.php",
+            "classes": [
+                "Calculation\\Database"
+            ]
+        },
+        {
+            "file": "Calculation/FormulaToken.php",
+            "classes": [
+                "Calculation\\FormulaToken"
+            ]
+        },
+        {
+            "file": "Calculation/Engine/CyclicReferenceStack.php",
+            "classes": [
+                "Calculation\\Engine\\CyclicReferenceStack"
+            ]
+        },
+        {
+            "file": "Calculation/Engine/Logger.php",
+            "classes": [
+                "Calculation\\Engine\\Logger"
+            ]
+        },
+        {
+            "file": "Calculation/FormulaParser.php",
+            "classes": [
+                "Calculation\\FormulaParser"
+            ]
+        },
+        {
+            "file": "Calculation/DateTime.php",
+            "classes": [
+                "Calculation\\DateTime"
+            ]
+        },
+        {
+            "file": "Calculation/TextData.php",
+            "classes": [
+                "Calculation\\TextData"
+            ]
+        },
+        {
+            "file": "Calculation/Financial.php",
+            "classes": [
+                "Calculation\\Financial"
+            ]
+        },
+        {
+            "file": "Calculation/Calculation.php",
+            "classes": [
+                "Calculation\\Calculation"
+            ]
+        },
+        {
+            "file": "Calculation/Token/Stack.php",
+            "classes": [
+                "Calculation\\Token\\Stack"
+            ]
+        },
+        {
+            "file": "Calculation/LookupRef.php",
+            "classes": [
+                "Calculation\\LookupRef"
+            ]
+        },
+        {
+            "file": "Calculation/Engineering.php",
+            "classes": [
+                "Calculation\\Engineering"
+            ]
+        },
+        {
+            "file": "Calculation/MathTrig.php",
+            "classes": [
+                "Calculation\\MathTrig"
+            ]
+        },
+        {
+            "file": "Calculation/Logical.php",
+            "classes": [
+                "Calculation\\Logical"
+            ]
+        },
+        {
+            "file": "Calculation/Category.php",
+            "classes": [
+                "Calculation\\Category"
+            ]
+        },
+        {
+            "file": "Calculation/Functions.php",
+            "classes": [
+                "Calculation\\Functions"
+            ]
+        },
+        {
+            "file": "Calculation/Exception.php",
+            "classes": [
+                "Calculation\\Exception"
+            ]
+        },
+        {
+            "file": "Shared/Escher.php",
+            "classes": [
+                "Shared\\Escher"
+            ]
+        },
+        {
+            "file": "Shared/OLE.php",
+            "classes": [
+                "Shared\\OLE"
+            ]
+        },
+        {
+            "file": "Shared/OLERead.php",
+            "classes": [
+                "Shared\\OLERead"
+            ]
+        },
+        {
+            "file": "Shared/Xls.php",
+            "classes": [
+                "Shared\\Xls"
+            ]
+        },
+        {
+            "file": "Shared/File.php",
+            "classes": [
+                "Shared\\File"
+            ]
+        },
+        {
+            "file": "Shared/Font.php",
+            "classes": [
+                "Shared\\Font"
+            ]
+        },
+        {
+            "file": "Shared/TimeZone.php",
+            "classes": [
+                "Shared\\TimeZone"
+            ]
+        },
+        {
+            "file": "Shared/Escher/DgContainer/SpgrContainer.php",
+            "classes": [
+                "Shared\\Escher\\DgContainer\\SpgrContainer"
+            ]
+        },
+        {
+            "file": "Shared/Escher/DgContainer/SpgrContainer/SpContainer.php",
+            "classes": [
+                "Shared\\Escher\\DgContainer\\SpgrContainer\\SpContainer"
+            ]
+        },
+        {
+            "file": "Shared/Escher/DgContainer.php",
+            "classes": [
+                "Shared\\Escher\\DgContainer"
+            ]
+        },
+        {
+            "file": "Shared/Escher/DggContainer/BstoreContainer.php",
+            "classes": [
+                "Shared\\Escher\\DggContainer\\BstoreContainer"
+            ]
+        },
+        {
+            "file": "Shared/Escher/DggContainer/BstoreContainer/BSE.php",
+            "classes": [
+                "Shared\\Escher\\DggContainer\\BstoreContainer\\BSE"
+            ]
+        },
+        {
+            "file": "Shared/Escher/DggContainer/BstoreContainer/BSE/Blip.php",
+            "classes": [
+                "Shared\\Escher\\DggContainer\\BstoreContainer\\BSE\\Blip"
+            ]
+        },
+        {
+            "file": "Shared/Escher/DggContainer.php",
+            "classes": [
+                "Shared\\Escher\\DggContainer"
+            ]
+        },
+        {
+            "file": "Shared/Date.php",
+            "classes": [
+                "Shared\\Date"
+            ]
+        },
+        {
+            "file": "Shared/Trend/LogarithmicBestFit.php",
+            "classes": [
+                "Shared\\Trend\\LogarithmicBestFit"
+            ]
+        },
+        {
+            "file": "Shared/Trend/Trend.php",
+            "classes": [
+                "Shared\\Trend\\Trend"
+            ]
+        },
+        {
+            "file": "Shared/Trend/PowerBestFit.php",
+            "classes": [
+                "Shared\\Trend\\PowerBestFit"
+            ]
+        },
+        {
+            "file": "Shared/Trend/LinearBestFit.php",
+            "classes": [
+                "Shared\\Trend\\LinearBestFit"
+            ]
+        },
+        {
+            "file": "Shared/Trend/BestFit.php",
+            "classes": [
+                "Shared\\Trend\\BestFit"
+            ]
+        },
+        {
+            "file": "Shared/Trend/PolynomialBestFit.php",
+            "classes": [
+                "Shared\\Trend\\PolynomialBestFit"
+            ]
+        },
+        {
+            "file": "Shared/Trend/ExponentialBestFit.php",
+            "classes": [
+                "Shared\\Trend\\ExponentialBestFit"
+            ]
+        },
+        {
+            "file": "Shared/JAMA/SingularValueDecomposition.php",
+            "classes": [
+                "Shared\\JAMA\\SingularValueDecomposition"
+            ]
+        },
+        {
+            "file": "Shared/JAMA/Matrix.php",
+            "classes": [
+                "Shared\\JAMA\\Matrix"
+            ]
+        },
+        {
+            "file": "Shared/JAMA/EigenvalueDecomposition.php",
+            "classes": [
+                "Shared\\JAMA\\EigenvalueDecomposition"
+            ]
+        },
+        {
+            "file": "Shared/JAMA/QRDecomposition.php",
+            "classes": [
+                "Shared\\JAMA\\QRDecomposition"
+            ]
+        },
+        {
+            "file": "Shared/JAMA/LUDecomposition.php",
+            "classes": [
+                "Shared\\JAMA\\LUDecomposition"
+            ]
+        },
+        {
+            "file": "Shared/JAMA/CholeskyDecomposition.php",
+            "classes": [
+                "Shared\\JAMA\\CholeskyDecomposition"
+            ]
+        },
+        {
+            "file": "Shared/Drawing.php",
+            "classes": [
+                "Shared\\Drawing"
+            ]
+        },
+        {
+            "file": "Shared/OLE/PPS/File.php",
+            "classes": [
+                "Shared\\OLE\\PPS\\File"
+            ]
+        },
+        {
+            "file": "Shared/OLE/PPS/Root.php",
+            "classes": [
+                "Shared\\OLE\\PPS\\Root"
+            ]
+        },
+        {
+            "file": "Shared/OLE/ChainedBlockStream.php",
+            "classes": [
+                "Shared\\OLE\\ChainedBlockStream"
+            ]
+        },
+        {
+            "file": "Shared/OLE/PPS.php",
+            "classes": [
+                "Shared\\OLE\\PPS"
+            ]
+        },
+        {
+            "file": "Shared/CodePage.php",
+            "classes": [
+                "Shared\\CodePage"
+            ]
+        },
+        {
+            "file": "Shared/XMLWriter.php",
+            "classes": [
+                "Shared\\XMLWriter"
+            ]
+        },
+        {
+            "file": "Shared/StringHelper.php",
+            "classes": [
+                "Shared\\StringHelper"
+            ]
+        },
+        {
+            "file": "Shared/PasswordHasher.php",
+            "classes": [
+                "Shared\\PasswordHasher"
+            ]
+        },
+        {
+            "file": "Helper/Sample.php",
+            "classes": [
+                "Helper\\Sample"
+            ]
+        },
+        {
+            "file": "Helper/Migrator.php",
+            "classes": [
+                "Helper\\Migrator"
+            ]
+        },
+        {
+            "file": "Helper/Html.php",
+            "classes": [
+                "Helper\\Html"
+            ]
+        },
+        {
+            "file": "Spreadsheet.php",
+            "classes": [
+                "Spreadsheet"
+            ]
+        },
+        {
+            "file": "Document/Properties.php",
+            "classes": [
+                "Document\\Properties"
+            ]
+        },
+        {
+            "file": "Document/Security.php",
+            "classes": [
+                "Document\\Security"
+            ]
+        },
+        {
+            "file": "Style/Conditional.php",
+            "classes": [
+                "Style\\Conditional"
+            ]
+        },
+        {
+            "file": "Style/Alignment.php",
+            "classes": [
+                "Style\\Alignment"
+            ]
+        },
+        {
+            "file": "Style/Borders.php",
+            "classes": [
+                "Style\\Borders"
+            ]
+        },
+        {
+            "file": "Style/Color.php",
+            "classes": [
+                "Style\\Color"
+            ]
+        },
+        {
+            "file": "Style/Font.php",
+            "classes": [
+                "Style\\Font"
+            ]
+        },
+        {
+            "file": "Style/Style.php",
+            "classes": [
+                "Style\\Style"
+            ]
+        },
+        {
+            "file": "Style/Fill.php",
+            "classes": [
+                "Style\\Fill"
+            ]
+        },
+        {
+            "file": "Style/Protection.php",
+            "classes": [
+                "Style\\Protection"
+            ]
+        },
+        {
+            "file": "Style/Border.php",
+            "classes": [
+                "Style\\Border"
+            ]
+        },
+        {
+            "file": "Style/Supervisor.php",
+            "classes": [
+                "Style\\Supervisor"
+            ]
+        },
+        {
+            "file": "Style/NumberFormat.php",
+            "classes": [
+                "Style\\NumberFormat"
+            ]
+        },
+        {
+            "file": "Worksheet/AutoFilter.php",
+            "classes": [
+                "Worksheet\\AutoFilter"
+            ]
+        },
+        {
+            "file": "Worksheet/AutoFilter/Column.php",
+            "classes": [
+                "Worksheet\\AutoFilter\\Column"
+            ]
+        },
+        {
+            "file": "Worksheet/AutoFilter/Column/Rule.php",
+            "classes": [
+                "Worksheet\\AutoFilter\\Column\\Rule"
+            ]
+        },
+        {
+            "file": "Worksheet/MemoryDrawing.php",
+            "classes": [
+                "Worksheet\\MemoryDrawing"
+            ]
+        },
+        {
+            "file": "Worksheet/ColumnDimension.php",
+            "classes": [
+                "Worksheet\\ColumnDimension"
+            ]
+        },
+        {
+            "file": "Worksheet/ColumnCellIterator.php",
+            "classes": [
+                "Worksheet\\ColumnCellIterator"
+            ]
+        },
+        {
+            "file": "Worksheet/RowCellIterator.php",
+            "classes": [
+                "Worksheet\\RowCellIterator"
+            ]
+        },
+        {
+            "file": "Worksheet/Row.php",
+            "classes": [
+                "Worksheet\\Row"
+            ]
+        },
+        {
+            "file": "Worksheet/PageSetup.php",
+            "classes": [
+                "Worksheet\\PageSetup"
+            ]
+        },
+        {
+            "file": "Worksheet/ColumnIterator.php",
+            "classes": [
+                "Worksheet\\ColumnIterator"
+            ]
+        },
+        {
+            "file": "Worksheet/HeaderFooterDrawing.php",
+            "classes": [
+                "Worksheet\\HeaderFooterDrawing"
+            ]
+        },
+        {
+            "file": "Worksheet/Dimension.php",
+            "classes": [
+                "Worksheet\\Dimension"
+            ]
+        },
+        {
+            "file": "Worksheet/Iterator.php",
+            "classes": [
+                "Worksheet\\Iterator"
+            ]
+        },
+        {
+            "file": "Worksheet/Drawing/Shadow.php",
+            "classes": [
+                "Worksheet\\Drawing\\Shadow"
+            ]
+        },
+        {
+            "file": "Worksheet/BaseDrawing.php",
+            "classes": [
+                "Worksheet\\BaseDrawing"
+            ]
+        },
+        {
+            "file": "Worksheet/Column.php",
+            "classes": [
+                "Worksheet\\Column"
+            ]
+        },
+        {
+            "file": "Worksheet/RowDimension.php",
+            "classes": [
+                "Worksheet\\RowDimension"
+            ]
+        },
+        {
+            "file": "Worksheet/CellIterator.php",
+            "classes": [
+                "Worksheet\\CellIterator"
+            ]
+        },
+        {
+            "file": "Worksheet/SheetView.php",
+            "classes": [
+                "Worksheet\\SheetView"
+            ]
+        },
+        {
+            "file": "Worksheet/Protection.php",
+            "classes": [
+                "Worksheet\\Protection"
+            ]
+        },
+        {
+            "file": "Worksheet/PageMargins.php",
+            "classes": [
+                "Worksheet\\PageMargins"
+            ]
+        },
+        {
+            "file": "Worksheet/Drawing.php",
+            "classes": [
+                "Worksheet\\Drawing"
+            ]
+        },
+        {
+            "file": "Worksheet/HeaderFooter.php",
+            "classes": [
+                "Worksheet\\HeaderFooter"
+            ]
+        },
+        {
+            "file": "Worksheet/Worksheet.php",
+            "classes": [
+                "Worksheet\\Worksheet"
+            ]
+        },
+        {
+            "file": "Worksheet/RowIterator.php",
+            "classes": [
+                "Worksheet\\RowIterator"
+            ]
+        },
+        {
+            "file": "Cell/DefaultValueBinder.php",
+            "classes": [
+                "Cell\\DefaultValueBinder"
+            ]
+        },
+        {
+            "file": "Cell/Coordinate.php",
+            "classes": [
+                "Cell\\Coordinate"
+            ]
+        },
+        {
+            "file": "Cell/DataType.php",
+            "classes": [
+                "Cell\\DataType"
+            ]
+        },
+        {
+            "file": "Cell/Cell.php",
+            "classes": [
+                "Cell\\Cell"
+            ]
+        },
+        {
+            "file": "Cell/AdvancedValueBinder.php",
+            "classes": [
+                "Cell\\AdvancedValueBinder"
+            ]
+        },
+        {
+            "file": "Cell/DataValidator.php",
+            "classes": [
+                "Cell\\DataValidator"
+            ]
+        },
+        {
+            "file": "Cell/Hyperlink.php",
+            "classes": [
+                "Cell\\Hyperlink"
+            ]
+        },
+        {
+            "file": "Cell/IValueBinder.php",
+            "classes": [
+                "Cell\\IValueBinder"
+            ]
+        },
+        {
+            "file": "Cell/DataValidation.php",
+            "classes": [
+                "Cell\\DataValidation"
+            ]
+        },
+        {
+            "file": "Exception.php",
+            "classes": [
+                "Exception"
+            ]
+        }
+    ]
+}
